@@ -6,6 +6,7 @@ install:
 - git clone https://github.com/Mryan2005/MyBlog.git
 - git config --global user.name "travis"
 - git config --global user.email "a2564011261@163.com"
+after_script:
 - git add .
 - git commit -m "Travis CI Auto Builder"
 - git push --force --quiet "https://Mryan05:${GH_Token}@github.com/Mryan2005/MyBlog.git" master:master
