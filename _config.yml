@@ -102,10 +102,14 @@ menu:
   #commonweal: /404/ || heartbeat
   notebook: /notebook/ || 笔记
   MyWork: /MyWork/ || 我的作品
+  help: /help/ || 帮助
 
 # Enable/Disable menu icons.
 menu_icons:
   enable: true
+  # Icon Mapping.
+  home: home
+  about: user
   notebook: book
   MyWork: cog
 
@@ -219,7 +223,7 @@ excerpt_description: true
 # Automatically Excerpt. Not recommend.
 # Please use <!-- more --> in the post to control excerpt accurately.
 auto_excerpt:
-  enable: false
+  enable: true
   length: 150
 
 # Post meta display settings
