@@ -2,8 +2,8 @@ language: node_js
 node_js: '6.4'
 install:
 - cd ..
-- rm -rf ./.git
 - git clone https://github.com/Mryan2005/MyBlog.git
+- cd MyBlog/
 - git config --global user.name "travis"
 - git config --global user.email "a2564011261@163.com"
 after_script:
