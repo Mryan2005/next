@@ -4,7 +4,7 @@ title:
   tag: 标签
   schedule: 日程表
 
-author: 博主
+author: 博主大大
 
 menu:
   home: 首页
@@ -16,6 +16,9 @@ menu:
   schedule: 日程表
   sitemap: 站点地图
   commonweal: 公益404
+  MyWork: 我的作品
+  notebook: 笔记本
+  
 
 sidebar:
   overview: 站点概览
