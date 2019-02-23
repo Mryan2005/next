@@ -102,7 +102,7 @@ menu:
   #commonweal: /404/ || heartbeat
   notebook: /notebook/ || book
   MyWork: /MyWork/ || cog
-  help: /help/ || 帮助
+  help: /help/ || help
 
 # Enable/Disable menu icons.
 menu_icons:
@@ -141,6 +141,8 @@ social:
   #YouTube: https://youtube.com/yourname || youtube
   #Instagram: https://instagram.com/yourname || instagram
   #Skype: skype:yourname?call|chat || skype
+  Coding: https://dev.tencent.com/u/Mryan05 || coding
+  Gitee: https://gitee.com/Mryan2005 || Gitee
 
 social_icons:
   enable: true
