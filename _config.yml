@@ -102,7 +102,7 @@ menu:
   #commonweal: /404/ || heartbeat
   notebook: /notebook/ || book
   MyWork: /MyWork/ || cog
-  help: /help/ || help
+  help_and_rule: /help_and_rule/ || help
 
 # Enable/Disable menu icons.
 menu_icons:
