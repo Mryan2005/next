@@ -10,7 +10,7 @@ before_install:
 - export TZ='Asia/Shanghai'
 - echo "设置时区完成"
 install:
-- git clonehttps://github.com/Mryan2005/MyBlog.git
+- git clone https://github.com/Mryan2005/MyBlog.git
 - cd MyBlog/
 - echo "正在清空.git"
 - rm -rf ./.git
